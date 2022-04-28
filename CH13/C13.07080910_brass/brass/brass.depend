@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650373123 source:d:\mycode\c++ primer\ch13\c13.070809_brass\brass\brass.cpp
+	<iostream>
+	"brass.h"
+
+1650372248 d:\mycode\c++ primer\ch13\c13.070809_brass\brass\brass.h
+	<string>
+
+1650373143 source:d:\mycode\c++ primer\ch13\c13.070809_brass\brass\usebrass1.cpp
+	<iostream>
+	"brass.h"
+

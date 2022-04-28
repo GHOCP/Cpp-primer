@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650459023 source:d:\mycode\c++ primer\ch13\p13.04_port\port\useport.cpp
+	"port.h"
+	<iostream>
+
+1650458590 d:\mycode\c++ primer\ch13\p13.04_port\port\port.h
+	<iostream>
+	<cstring>
+
+1650458930 source:d:\mycode\c++ primer\ch13\p13.04_port\port\port.cpp
+	"port.h"
+	<iostream>
+

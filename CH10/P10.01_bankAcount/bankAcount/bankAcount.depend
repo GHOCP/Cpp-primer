@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1647954163 source:d:\mycode\c++ primer\ch10\p10.01_bankacount\bankacount\use_bankaccount.cpp
+	<iostream>
+	<string>
+	"banckAccount.h"
+
+1647952808 d:\mycode\c++ primer\ch10\p10.01_bankacount\bankacount\banckaccount.h
+	<string>
+
+1647954322 source:d:\mycode\c++ primer\ch10\p10.01_bankacount\bankacount\banckaccount.cpp
+	<iostream>
+	<string>
+	"banckAccount.h"
+

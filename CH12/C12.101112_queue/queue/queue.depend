@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648879322 source:d:\mycode\c++ primer\ch12\c12.101112_queue\queue\bank.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"queue.h"
+
+1648871153 d:\mycode\c++ primer\ch12\c12.101112_queue\queue\queue.h
+
+1648792525 source:d:\mycode\c++ primer\ch12\c12.101112_queue\queue\queue.cpp
+	"queue.h"
+	<cstdlib>
+

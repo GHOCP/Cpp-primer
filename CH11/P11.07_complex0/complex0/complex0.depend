@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648178704 source:d:\mycode\c++ primer\ch11\p11.07_complex0\complex0\complex0.cpp
+	"complex0.h"
+
+1648178820 d:\mycode\c++ primer\ch11\p11.07_complex0\complex0\complex0.h
+	<iostream>
+
+1648178565 source:d:\mycode\c++ primer\ch11\p11.07_complex0\complex0\usecomplex.cpp
+	<iostream>
+	"complex0.h"
+

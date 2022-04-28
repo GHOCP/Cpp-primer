@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650371598 source:d:\mycode\c++ primer\ch13\c13.040506_tabtenn1\tabtenn1\tabtenn1.cpp
+	"tabtenn1.h"
+	<iostream>
+
+1650371508 d:\mycode\c++ primer\ch13\c13.040506_tabtenn1\tabtenn1\tabtenn1.h
+	<string>
+
+1650371630 source:d:\mycode\c++ primer\ch13\c13.040506_tabtenn1\tabtenn1\usett1.cpp
+	<iostream>
+	"tabtenn1.h"
+

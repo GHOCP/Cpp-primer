@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647503585 source:d:\mycode\c++ primer\ch09\p09.01_golf\golf\main.cpp
+	<iostream>
+	"golf.h"
+
+1647496537 d:\mycode\c++ primer\ch09\p09.01_golf\golf\golf.h
+
+1647505039 source:d:\mycode\c++ primer\ch09\p09.01_golf\golf\golf.cpp
+	<iostream>
+	<cstring>
+	"golf.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648811801 source:d:\mycode\c++ primer\ch12\p12.01_cow\cow\usecow.cpp
+	<iostream>
+	"cow.h"
+
+1648812096 d:\mycode\c++ primer\ch12\p12.01_cow\cow\cow.h
+
+1648812018 source:d:\mycode\c++ primer\ch12\p12.01_cow\cow\cow.cpp
+	<iostream>
+	<cstring>
+	"cow.h"
+

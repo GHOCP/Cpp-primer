@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648875644 source:d:\mycode\c++ primer\ch12\p12.04_stack\stack\stack.cpp
+	"stack.h"
+	<cstdlib>
+	<iostream>
+
+1648876456 d:\mycode\c++ primer\ch12\p12.04_stack\stack\stack.h
+
+1648875524 source:d:\mycode\c++ primer\ch12\p12.04_stack\stack\usestack.cpp
+	"stack.h"
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650373500 source:d:\mycode\c++ primer\ch13\c13.141516_dma\dma\usedma.cpp
+	<iostream>
+	"dma.h"
+
+1650373446 d:\mycode\c++ primer\ch13\c13.141516_dma\dma\dma.h
+	<iostream>
+

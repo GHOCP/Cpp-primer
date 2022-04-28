@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650436191 source:d:\mycode\c++ primer\ch13\p13.0102_cd\cd\cd.cpp
+	"cd.h"
+
+1650436190 d:\mycode\c++ primer\ch13\p13.0102_cd\cd\cd.h
+	<iostream>
+	<cstring>
+
+1650436303 source:d:\mycode\c++ primer\ch13\p13.0102_cd\cd\usecd.cpp
+	<iostream>
+	"cd.h"
+

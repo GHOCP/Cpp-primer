@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650373361 source:d:\mycode\c++ primer\ch13\c13.111213_acctabc\acctabc\usebrass3.cpp
+	<iostream>
+	<string>
+	"acctabc.h"
+
+1650430136 d:\mycode\c++ primer\ch13\c13.111213_acctabc\acctabc\acctabc.h
+	<iostream>
+	<string>
+

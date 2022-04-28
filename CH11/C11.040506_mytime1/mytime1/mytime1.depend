@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648117052 source:d:\mycode\c++ primer\ch11\c11.040506_mytime1\mytime1\usetime1.cpp
+	<iostream>
+	"mytime1.h"
+
+1648116915 d:\mycode\c++ primer\ch11\c11.040506_mytime1\mytime1\mytime1.h
+

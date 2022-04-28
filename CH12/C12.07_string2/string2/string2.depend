@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648790973 source:d:\mycode\c++ primer\ch12\c12.07_string2\string2\sayings2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"string1.h"
+
+1648790256 d:\mycode\c++ primer\ch12\c12.07_string2\string2\string1.h
+	<iostream>
+
+1648790288 source:d:\mycode\c++ primer\ch12\c12.07_string2\string2\string1.cpp
+	<cstring>
+	"string1.h"
+

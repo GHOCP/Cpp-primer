@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647490621 source:d:\mycode\c++ primer\ch09\l09.0708_twofile\twofile\twofile1.cpp
+	<iostream>
+
+1647490635 source:d:\mycode\c++ primer\ch09\l09.0708_twofile\twofile\twofile2.cpp
+	<iostream>
+

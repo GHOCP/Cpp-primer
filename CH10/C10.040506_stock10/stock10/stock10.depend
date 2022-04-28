@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647943769 source:d:\mycode\c++ primer\ch10\c10.02_stock10\stock10\usestok1.cpp
+	<iostream>
+	"stock10.h"
+
+1647943635 d:\mycode\c++ primer\ch10\c10.02_stock10\stock10\stock10.h
+	<string>
+

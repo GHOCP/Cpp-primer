@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648785113 source:d:\mycode\c++ primer\ch12\c12.010203_stringbad\stringbad\stringbad.cpp
+	<cstring>
+	"stringbad.h"
+
+1648785035 d:\mycode\c++ primer\ch12\c12.010203_stringbad\stringbad\stringbad.h
+	<iostream>
+
