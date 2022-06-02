@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652788910 source:d:\mycode\c++-primer\ch14\c14.010203_studentc\studentc\studentc.cpp
+	"studentc.h"
+
+1652789339 d:\mycode\c++-primer\ch14\c14.010203_studentc\studentc\studentc.h
+	<iostream>
+	<string>
+	<valarray>
+
+1652789391 source:d:\mycode\c++-primer\ch14\c14.010203_studentc\studentc\use_stuc.cpp
+	<iostream>
+	"studentc.h"
+

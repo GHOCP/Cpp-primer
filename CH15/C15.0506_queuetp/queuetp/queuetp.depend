@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654060126 source:d:\mycode\c++-primer\ch15\c15.0506_queuetp\queuetp\nested.cpp
+	<iostream>
+	<string>
+	"queuetp.h"
+
+1654060085 d:\mycode\c++-primer\ch15\c15.0506_queuetp\queuetp\queuetp.h
+

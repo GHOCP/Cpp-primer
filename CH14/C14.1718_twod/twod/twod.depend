@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652931492 source:d:\mycode\c++-primer\ch14\c14.1718_twod\twod\twod.cpp
+	<iostream>
+	"arraytp.h"
+
+1652931464 d:\mycode\c++-primer\ch14\c14.1718_twod\twod\arraytp.h
+	<iostream>
+	<cstdlib>
+

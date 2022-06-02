@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653049172 source:d:\mycode\c++-primer\ch14\p14.02_winei\winei\use_winei.cpp
+	<iostream>
+	"winei.h"
+
+1653048900 d:\mycode\c++-primer\ch14\p14.02_winei\winei\winei.h
+	<iostream>
+	<cstdio>
+	<string>
+	<valarray>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652850852 source:d:\mycode\c++-primer\ch14\c14.070809_worker0\worker0\worktest.cpp
+	<iostream>
+	"worker0.h"
+
+1652852304 d:\mycode\c++-primer\ch14\c14.070809_worker0\worker0\worker0.h
+	<string>
+

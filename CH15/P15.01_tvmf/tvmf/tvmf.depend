@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654159702 source:d:\mycode\c++-primer\ch15\p15.01_tvmf\tvmf\tvmf.cpp
+	<iostream>
+	"tvmf.h"
+
+1654160372 d:\mycode\c++-primer\ch15\p15.01_tvmf\tvmf\tvmf.h
+
+1654160335 source:d:\mycode\c++-primer\ch15\p15.01_tvmf\tvmf\use_tv.cpp
+	<iostream>
+	"tvmf.h"
+

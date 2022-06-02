@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652851401 source:d:\mycode\c++-primer\ch14\c14.101112_workermi\workermi\workermi.cpp
+	"workermi.h"
+	<iostream>
+
+1652852314 d:\mycode\c++-primer\ch14\c14.101112_workermi\workermi\workermi.h
+	<string>
+
+1652930983 source:d:\mycode\c++-primer\ch14\c14.101112_workermi\workermi\work_test.cpp
+	<iostream>
+	<cstring>
+	"workermi.h"
+
