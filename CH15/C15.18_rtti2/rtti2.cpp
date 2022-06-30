@@ -5,41 +5,43 @@
 #include <typeinfo>
 using namespace std;
 class Grand {
-private:
-    int hold;
-public:
-    Grand(int h = 0) : hold(h) {}
-    virtual void Speak() const {
-        cout << "I am a grand class!\n";
-    }
-    virtual int Value() const {
-        return hold;
-    }
+    private:
+        int hold;
+    public:
+        Grand(int h = 0) : hold(h) {}
+        virtual void Speak() const {
+            cout << "I am a grand class!\n";
+        }
+        virtual int Value() const {
+            return hold;
+        }
 };
 class Superb : public Grand {
-public:
-    Superb(int h = 0) : Grand(h) {}
-    void Speak() const {
-        cout << "I am a superb class!!\n";
-    }
-    virtual void Say() const {
-        cout << "I hold the superb value of " << Value() << "!\n";
-    }
+    public:
+        Superb(int h = 0) : Grand(h) {}
+        void Speak() const {
+            cout << "I am a superb class!!\n";
+        }
+        virtual void Say() const {
+            cout << "I hold the superb value of " << Value() << "!\n";
+        }
 };
 class Magnificent : public Superb {
-private:
-    char ch;
-public:
-    Magnificent(int h = 0, char cv = 'A') : Superb(h), ch(cv) {}
-    void Speak() const {
-        cout << "I am a magnificent class!!!\n";
-    }
-    void Say() const {
-        cout << "I hold the character " << ch <<
-             " and the integer " << Value() << "!\n";
-    }
+    private:
+        char ch;
+    public:
+        Magnificent(int h = 0, char cv = 'A') : Superb(h), ch(cv) {}
+        void Speak() const {
+            cout << "I am a magnificent class!!!\n";
+        }
+        void Say() const {
+            cout << "I hold the character " << ch <<
+                 " and the integer " << Value() << "!\n";
+        }
 };
+
 Grand * GetOne();
+
 int main() {
     srand(time(0));
     Grand * pg;
@@ -55,6 +57,7 @@ int main() {
     }
     return 0;
 }
+
 Grand * GetOne() {
     Grand * p;
     switch( rand() % 3) {

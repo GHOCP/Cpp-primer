@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655127961 source:d:\mycode\c++-primer\ch15\p15.02_error4_2\error4_2\error4_2.cpp
+	<iostream>
+	<cmath>
+	"exc_mean_i.h"
+
+1655128517 d:\mycode\c++-primer\ch15\p15.02_error4_2\error4_2\exc_mean_i.h
+	<iostream>
+	<stdexcept>
+	<string>
+

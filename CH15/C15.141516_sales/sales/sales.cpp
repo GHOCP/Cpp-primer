@@ -1,6 +1,7 @@
 // sales.cpp -- Sales implementation
 #include "sales.h"
 using std::string;
+
 Sales::bad_index::bad_index(int ix, const string & s )
     : std::logic_error(s), bi(ix) {
 }
@@ -29,6 +30,7 @@ double & Sales::operator[](int i) {
         throw bad_index(i);
     return gross[i];
 }
+
 LabeledSales::nbad_index::nbad_index(const string & lb, int ix,
                                      const string & s ) : Sales::bad_index(ix, s) {
     lbl = lb;

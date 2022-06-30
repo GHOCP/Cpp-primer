@@ -26,7 +26,7 @@ int main() {
         }
         cout << "Year = " << sales2.Year() << endl;
         cout << "Label = " << sales2.Label() << endl;
-        for (i = 0; i <= 12; ++i) {
+        for (i = 0; i <= 12; ++i) { // the index 12 makes an exception
             cout << sales2[i] << ' ';
             if (i % 6 == 5)
                 cout << endl;

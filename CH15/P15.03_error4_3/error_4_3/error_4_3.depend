@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655259704 source:d:\mycode\c++-primer\ch15\p15.03_error4_3\error_4_3\error_4_3.cpp
+	<iostream>
+	<cmath>
+	"exc_mean_ii.h"
+
+1655259352 d:\mycode\c++-primer\ch15\p15.03_error4_3\error_4_3\exc_mean_ii.h
+	<iostream>
+	<stdexcept>
+
